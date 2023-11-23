@@ -6,9 +6,10 @@
 - Laravel, php, c#, fail2ban, SIP
 - mysql, 
 - linux, 
-- raspberry pi,
+- raspberry pi : Controll Barriers Using Serialport (nodejs, c++)
+  
 - nodejs : LPR Service for Parking Management Service
-- python(learnning)
+- python : Hoist Management Service for Build Buildings
 - 
 <!---
 mrdotori/mrdotori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
