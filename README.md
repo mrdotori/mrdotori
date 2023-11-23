@@ -6,7 +6,10 @@
 - Laravel, php, c#, fail2ban, SIP
 - mysql, 
 - linux, 
-- raspberry pi, 
+- raspberry pi,
+- nodejs : LPR Service for Parking Management Service
+- python(learnning)
+- 
 <!---
 mrdotori/mrdotori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
